@@ -20,7 +20,7 @@ function binToDec(bin) {
 }
 ```
 ## Education
-Francisk Skorina Gomel State University
+Francisk Skorina Gomel State University (software engineer)
 
 # Language
 * Russian
